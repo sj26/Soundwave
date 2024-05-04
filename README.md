@@ -1,6 +1,6 @@
 # Soundwave
 
-![Screenshot of an audio attachment with seekable waveform image](http://f.cl.ly/items/2g023z3B1n3x3B411T33/Screen%20Shot%202012-01-02%20at%2010.41.52%20PM.png)
+![Screenshot of an audio attachment with seekable waveform image](https://web.archive.org/web/20200910190936if_/https://camo.githubusercontent.com/0b19c8802370402ead1f27ad7f9f545bdfa09218/687474703a2f2f662e636c2e6c792f6974656d732f32673032337a3342316e337833423431315433332f53637265656e25323053686f74253230323031322d30312d3032253230617425323031302e34312e3532253230504d2e706e67)
 
 Created to sate [Client-Side JavaScript Waveform Visualizer](https://web.archive.org/web/20111230154836/http://gun.io:80/open/4/client-side-javascript-waveform-visualizer) because it piqued my curiosity.
 
