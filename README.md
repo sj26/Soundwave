@@ -16,5 +16,5 @@ MIT (See LICENSE)
 
 ## See Also
 
-* [CarrierWave](https://github.com/benalavi/waveform)
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave)
 * [Waveform](https://github.com/benalavi/waveform)
